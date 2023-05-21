@@ -333,7 +333,7 @@ paths:
     # flip horizontally
     rpiCameraHFlip: false
     # flip vertically
-    rpiCameraVFlip: false
+    rpiCameraVFlip: true
     # brightness [-1, 1]
     rpiCameraBrightness: 0
     # contrast [0, 16]
